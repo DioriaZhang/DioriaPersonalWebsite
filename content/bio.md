@@ -1,5 +1,5 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I'm **Yan Zhang** (also known as **Dioria**), an independent researcher working on efficient sequence modeling, large language models, and data engineering.
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+I'm currently pursuing an M.S. in Applied Statistics at Wuhan University. My work spans vision foundation models for remote sensing — such as [EarthMamba](https://github.com/DioriaZhang/earth-mamba) — and large-scale speech and language model training.
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+I'm always happy to talk about research, engineering, or collaboration. Feel free to reach out by email.

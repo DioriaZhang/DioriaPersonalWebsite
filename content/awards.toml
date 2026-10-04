@@ -1,27 +1,15 @@
 type = "card"
 title = "Awards"
-description = "Honors and awards I have received."
+description = "Competitions and honors."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2025"
-content = "Description of the award."
+title = "Provincial First Prize"
+subtitle = "China Undergraduate Mathematical Contest in Modeling (CUMCM)"
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2024"
-content = "Description of the award."
+title = "Finalist (F Award)"
+subtitle = "Mathematical Contest in Modeling (MCM / ICM)"
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2023"
-content = "Description of the award."
-
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2022"
-content = "Description of the award."
+title = "Provincial Third Prize"
+subtitle = "National College Mathematical Competition (Category A)"
