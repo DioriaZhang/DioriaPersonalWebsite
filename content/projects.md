@@ -1,0 +1,2 @@
+- **EarthMamba** — a vision foundation model for high-resolution remote sensing · [github.com/DioriaZhang/earth-mamba](https://github.com/DioriaZhang/earth-mamba)
+- **MathLogicEnhance** — mathematical reasoning enhancement for Qwen2.5 · [github.com/DioriaZhang/MathLogicEnhance](https://github.com/DioriaZhang/MathLogicEnhance)

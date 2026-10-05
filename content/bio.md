@@ -1,5 +1,5 @@
-I'm **Yan Zhang** (also known as **Dioria**), an independent researcher working on efficient sequence modeling, large language models, and data engineering.
+I am an M.S. student in Applied Statistics at Wuhan University, and I received my B.S. in Information and Computing Science from the same university. My research centers on efficient sequence modeling, large language and multimodal models, and data engineering for large-scale training.
 
-I'm currently pursuing an M.S. in Applied Statistics at Wuhan University. My work spans vision foundation models for remote sensing — such as [EarthMamba](https://github.com/DioriaZhang/earth-mamba) — and large-scale speech and language model training.
+My work spans vision foundation models for remote sensing — such as [EarthMamba](https://github.com/DioriaZhang/earth-mamba) — as well as large-scale speech and language model training. I enjoy turning research ideas into reproducible systems, covering the whole path from data pipelines and distributed training to evaluation and analysis.
 
-I'm always happy to talk about research, engineering, or collaboration. Feel free to reach out by email.
+I am always glad to talk about research, engineering, or collaboration — feel free to reach me by email.

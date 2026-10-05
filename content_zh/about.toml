@@ -4,18 +4,49 @@ title = "关于我"
 [profile]
 research_interests = [
   "高效序列建模",
-  "大模型",
-  "数据工程"
+  "大语言与多模态模型",
+  "数据工程",
+  "视觉基础模型"
 ]
 
 [[sections]]
-id = "about"
+id = "bio"
 type = "markdown"
+title = "个人简介"
 source = "bio.md"
-title = "关于我"
 
 [[sections]]
-id = "news"
-type = "list"
-title = "动态"
-source = "news.toml"
+id = "interests"
+type = "markdown"
+title = "研究兴趣"
+source = "interests.md"
+
+[[sections]]
+id = "education"
+type = "markdown"
+title = "教育背景"
+source = "education.md"
+
+[[sections]]
+id = "experience"
+type = "markdown"
+title = "经历"
+source = "experience.md"
+
+[[sections]]
+id = "projects"
+type = "markdown"
+title = "代表项目"
+source = "projects.md"
+
+[[sections]]
+id = "awards"
+type = "markdown"
+title = "奖项与荣誉"
+source = "awards.md"
+
+[[sections]]
+id = "contact"
+type = "markdown"
+title = "联系方式"
+source = "contact.md"

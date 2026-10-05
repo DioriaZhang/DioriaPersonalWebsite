@@ -1,0 +1,4 @@
+- **Efficient sequence modeling** — Linear Attention, SSM, Mamba
+- **Large language & multimodal models** — ASR/TTS, Speech LLM, SFT/LoRA
+- **Data engineering & evaluation** — large-scale data pipelines, quality filtering, LLM-as-Judge
+- **Vision foundation models** — self-supervised pretraining, remote sensing imagery

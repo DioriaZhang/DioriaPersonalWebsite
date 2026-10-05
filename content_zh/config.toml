@@ -1,40 +1,25 @@
 [site]
 title = "张滟"
-description = "张滟（Dioria）的个人网站。"
-last_updated = "2026年10月"
+description = "张滟（Dioria）的个人主页。"
+last_updated = "2026 年 10 月"
 
 [author]
 name = "张滟"
-title = "自由研究者"
+title = "应用统计 硕士在读"
 institution = "武汉大学"
 
 [social]
+email = "1703642588@qq.com"
 location = "中国，武汉"
+location_url = "https://www.google.com/maps/place/Wuhan"
 location_details = [
-  "武汉，",
-  "湖北，中国"
+  "中国，",
+  "湖北，武汉"
 ]
+github = "https://github.com/DioriaZhang"
 
 [[navigation]]
 title = "关于我"
 type = "page"
 target = "about"
 href = "/"
-
-[[navigation]]
-title = "项目"
-type = "page"
-target = "projects"
-href = "/projects"
-
-[[navigation]]
-title = "奖项"
-type = "page"
-target = "awards"
-href = "/awards"
-
-[[navigation]]
-title = "简历"
-type = "page"
-target = "cv"
-href = "/cv"

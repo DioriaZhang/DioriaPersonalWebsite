@@ -1,0 +1,2 @@
+- **Wuhan University** — M.S. in Applied Statistics · 2025.09 – 2027.06 (expected)
+- **Wuhan University** — B.S. in Information and Computing Science · 2021.09 – 2025.06

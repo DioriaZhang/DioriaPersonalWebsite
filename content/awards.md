@@ -1,0 +1,5 @@
+- **2025.12** — Third Prize, 22nd China Postgraduate Mathematical Contest in Modeling ("Huawei Cup") · National
+- **2024** — Finalist (F Award), Mathematical Contest in Modeling (MCM/ICM) · International
+- **2023** — First Prize, Hubei Division, China Undergraduate Mathematical Contest in Modeling · Provincial
+- **2023.05** — Second Prize, 15th "Huazhong Cup" College Student Mathematical Modeling Challenge · Provincial
+- **2022** — Third Prize, 14th National College Mathematical Competition (Category A) · Provincial

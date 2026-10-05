@@ -270,7 +270,7 @@ export default function Profile({ author, social, features, researchInterests }:
                                                         </div>
                                                     )}
                                                 </div>
-                                                <p className="break-words">{social.email?.replace('@', ' (at) ')}</p>
+                                                <p className="break-words select-all">{social.email}</p>
                                                 <div className="mt-2">
                                                     <a
                                                         href={link.href}

@@ -4,18 +4,49 @@ title = "About"
 [profile]
 research_interests = [
   "Efficient Sequence Modeling",
-  "Large Language Models",
-  "Data Engineering"
+  "Large Language & Multimodal Models",
+  "Data Engineering",
+  "Vision Foundation Models"
 ]
 
 [[sections]]
-id = "about"
+id = "bio"
 type = "markdown"
+title = "About Me"
 source = "bio.md"
-title = "About"
 
 [[sections]]
-id = "news"
-type = "list"
-title = "News"
-source = "news.toml"
+id = "interests"
+type = "markdown"
+title = "Research Interests"
+source = "interests.md"
+
+[[sections]]
+id = "education"
+type = "markdown"
+title = "Education"
+source = "education.md"
+
+[[sections]]
+id = "experience"
+type = "markdown"
+title = "Experience"
+source = "experience.md"
+
+[[sections]]
+id = "projects"
+type = "markdown"
+title = "Selected Projects"
+source = "projects.md"
+
+[[sections]]
+id = "awards"
+type = "markdown"
+title = "Awards & Honors"
+source = "awards.md"
+
+[[sections]]
+id = "contact"
+type = "markdown"
+title = "Contact"
+source = "contact.md"

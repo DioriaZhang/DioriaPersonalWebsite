@@ -6,14 +6,14 @@ last_updated = "October 2026"
 
 [author]
 name = "Yan Zhang"
-title = "Independent Researcher"
+title = "M.S. Student in Applied Statistics"
 institution = "Wuhan University"
-avatar = "/bio.jpg"
+avatar = "/bio.jpeg"
 
 [social]
 # Contact information (leave blank or delete to hide)
 
-email = "888zhangyan888@gmail.com"
+email = "1703642588@qq.com"
 location = "Wuhan, China"
 location_url = "https://www.google.com/maps/place/Wuhan"
 location_details = [
@@ -50,21 +50,3 @@ title = "About"
 type = "page"
 target = "about"
 href = "/"
-
-[[navigation]]
-title = "Projects"
-type = "page"
-target = "projects"
-href = "/projects"
-
-[[navigation]]
-title = "Awards"
-type = "page"
-target = "awards"
-href = "/awards"
-
-[[navigation]]
-title = "CV"
-type = "page"
-target = "cv"
-href = "/cv"

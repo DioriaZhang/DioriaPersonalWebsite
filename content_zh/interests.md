@@ -1,0 +1,4 @@
+- **高效序列建模** — Linear Attention、SSM、Mamba
+- **大语言与多模态模型** — ASR/TTS、Speech LLM、SFT/LoRA
+- **数据工程与评测** — 大规模数据管线、质量过滤、LLM-as-Judge
+- **视觉基础模型** — 自监督预训练、遥感图像

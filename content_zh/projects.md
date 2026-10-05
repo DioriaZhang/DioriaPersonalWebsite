@@ -1,0 +1,2 @@
+- **EarthMamba** — 高分辨率遥感视觉基础模型 · [github.com/DioriaZhang/earth-mamba](https://github.com/DioriaZhang/earth-mamba)
+- **MathLogicEnhance** — Qwen2.5 数学推理增强 · [github.com/DioriaZhang/MathLogicEnhance](https://github.com/DioriaZhang/MathLogicEnhance)
